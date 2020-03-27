@@ -1,0 +1,23 @@
+{
+  "name": "firim-plugin",
+  "version": "1.0.0",
+  "description": "Node.js plugin for upload apk/ipa to fir.im.",
+  "main": "uploadFirimHost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodjun/node-firim-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodjun/node-firim-plugin/issues"
+  },
+  "homepage": "https://github.com/goodjun/node-firim-plugin#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "request": "^2.88.2"
+  }
+}
